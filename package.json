@@ -1,0 +1,19 @@
+{
+  "name": "ratio-api",
+  "version": "1.0.0",
+  "description": "An altcoin ratio API for knowing best time to trade between cryptocurrencies",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cryptocurrency"
+  ],
+  "author": "@trevorjtclarke",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "cors": "^2.8.4",
+    "express": "^4.13.3"
+  }
+}
